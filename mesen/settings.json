@@ -1,5 +1,5 @@
 ﻿{
-  "Version": "2.1.0",
+  "Version": "2.1.1",
   "ConfigUpgrade": 5,
   "Video": {
     "CustomAspectRatio": 1,
@@ -9763,6 +9763,14 @@
   },
   "RecentFiles": {
     "Items": [
+      {
+        "RomFile": {
+          "Path": "C:\\Users\\lstevens\\Visual Studio Projects\\Q12 - Game Engine Projects\\NES-Dev\\src/startup.nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
       {
         "RomFile": {
           "Path": "C:\\Users\\lstevens\\Visual Studio Projects\\Q12 - Game Engine Projects\\NES Dev\\src/background.nes",
